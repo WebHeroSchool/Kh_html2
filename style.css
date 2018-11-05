@@ -1,0 +1,34 @@
+
+header {
+  text-align: justify;
+}
+
+header .a {
+  display: inline-block;
+}
+
+header .b {
+  display: inline-block;
+  float: right;
+}
+
+section {
+  display: inline-block;
+  margin-left: 40%;
+  text-align: justify;
+}
+
+article  {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+aside {
+  position: relative;
+  width: 25%;
+  top: -178px;
+  right: 400px;}
+
+footer {
+  text-align: end;
+}
