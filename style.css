@@ -1,6 +1,10 @@
 
+body {
+  font-family: "Montserrat"
+}
 header {
   text-align: justify;
+  font-family: "Mali"
 }
 
 header .a {
